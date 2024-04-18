@@ -79,12 +79,12 @@ const Head = () => {
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"
         />
         <a href="/">
-          <img
-            className="h-8"
-            alt="logo"
-            src="https://vectorseek.com/wp-content/uploads/2021/01/YouTube-Logo-Vector.png"
-          />
-        </a>
+       <img
+    className="h-8"
+    alt="logo"
+    src="https://rubiitubevercel.vercel.app/src/images/1000424312.png"
+        />
+       </a>
       </div>
       <div className="col-span-10 px-4">
         <div>
