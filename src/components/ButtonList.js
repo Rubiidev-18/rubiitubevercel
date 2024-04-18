@@ -4,12 +4,11 @@ import Button from "./Button";
 const list = [
   "All",
   "Gaming",
+  "Geometry Dash",
   "Songs",
   "Live",
-  "cricket",
   "Soccer",
   "Cooking",
-  "Joy",
 ];
 const ButtonList = () => {
   return (
