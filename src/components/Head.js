@@ -98,7 +98,7 @@ const Head = () => {
             onBlur={() => setShowSuggetions(false)}
           />
           <button
-            className="border border-gray-300 p-2 bg-gray-100 rounded-r-full"
+            className="border border-red-200 p-2 bg-red-100 rounded-r-full"
             type="text"
           >
             Search
@@ -109,7 +109,7 @@ const Head = () => {
             <ul>
               {suggetions.map((data) => (
                 <li
-                  className="py-2 shadow-sm hover:bg-gray-100 rounded-lg"
+                  className="py-2 shadow-sm hover:bg-red-200 rounded-lg"
                   key={data}
                 >
                   🔍 {data}
