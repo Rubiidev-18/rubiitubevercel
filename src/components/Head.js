@@ -90,7 +90,7 @@ const Head = () => {
         <div>
           <input
             className="border border-gray-300 w-1/2 p-2 rounded-l-full"
-            placeholder="Search here"
+            placeholder="Search... (Starters: Geometry Dash, Gaming, e.t.c)"
             type="text"
             value={searchQuery}
             onChange={(event) => setSearchQuery(event.target.value)}
