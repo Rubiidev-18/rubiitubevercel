@@ -82,7 +82,7 @@ const Head = () => {
        <img
     className="h-8"
     alt="logo"
-    src="https://rubiitubevercel.vercel.app/src/images/1000424312.png"
+    src="/images/1000424312.png"
         />
        </a>
       </div>
